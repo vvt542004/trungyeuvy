@@ -1,0 +1,2 @@
+r = 'trung yeu vy'
+print(r)
